@@ -2,6 +2,11 @@
   "version": "0.0.1-alpha",
   "license": "MIT",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cuadros-code/kd-card"
+  },
+  "homepage": "https://kevincuadros.website/",
   "typings": "dist/index.d.ts",
   "files": [
     "dist",
@@ -60,5 +65,10 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.3.1",
     "typescript": "^4.5.5"
-  }
+  },
+  "keywords": [
+    "card",
+    "card-component",
+    "test"
+  ]
 }
